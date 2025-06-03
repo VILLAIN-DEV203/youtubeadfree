@@ -1,2 +1,2 @@
 # youtubeadfree
-an app that remeve add fromyoutube
+an app that remove ad  from youtube
